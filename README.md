@@ -1,17 +1,17 @@
-# StarterTest
-## This is my starter test of github
-**This is my first p test** *and i will be testing a lot.*
-~~This is wrong~~
+# StarterTest   <br>
+## This is my starter test of github         <br>
+**This is my first p test** *and i will be testing a lot.*        <br>
+~~This is wrong~~                      <br>
 
-> What is this blockquote
-> Every skipped line it goes into this
+> What is this blockquote                 <br>
+> Every skipped line it goes into this       <br>
 
-https://github.com
+https://github.com          
 
--Unordered list
-+Kevin
-*Anthony
-  *Nested List
+- Unordered list         
+- Kevin
+- Anthony
+  - Nested List
 
   1. Number List
   2. Sloped
