@@ -6,7 +6,7 @@
 > What is this blockquote                 <br/>
 > Every skipped line it goes into this       <br/>
 
-https://github.com          
+https://github.com             <- Links are allowed to be used aswell without any extra code      
 
 - Unordered list     <br/>    
 - Kevin               <br/>
