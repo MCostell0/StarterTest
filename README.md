@@ -6,6 +6,8 @@
 > What is this blockquote                 <br/>
 > Every skipped line it goes into this       <br/>
 
+ br/ in < brackets is used to skip lines    <br/>
+
 https://github.com             <- Links are allowed to be used aswell without any extra code      
 
 - Unordered list     <br/>    
